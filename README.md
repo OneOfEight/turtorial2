@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-[click here] (https://www.google.com.au/webhp?hl=en&sa=X&ved=0ahUKEwjvpcfK7abfAhWaV30KHcMXAbQQPAgH)
+[click here](https://www.google.com.au/webhp?hl=en&sa=X&ved=0ahUKEwjvpcfK7abfAhWaV30KHcMXAbQQPAgH)
 
 ![click picture](/images/pic.jp)
 
