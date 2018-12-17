@@ -27,7 +27,9 @@ Syntax highlighted code block
 ```
 [click here](https://www.google.com.au/webhp?hl=en&sa=X&ved=0ahUKEwjvpcfK7abfAhWaV30KHcMXAbQQPAgH)
 
-![click picture](/images/pic.jp)
+![click picture](https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat)
+
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
