@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome just another
 
 You can use the [editor on GitHub](https://github.com/OneOfEight/turtorial2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,6 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[click here] (https://www.google.com.au/webhp?hl=en&sa=X&ved=0ahUKEwjvpcfK7abfAhWaV30KHcMXAbQQPAgH)
+
+![click picture](/images/pic.jp)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
